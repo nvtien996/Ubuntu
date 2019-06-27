@@ -2,7 +2,7 @@
 
 ## Mục lục
 
-[I. Tìm hiểu chung](#tìmhieuchung)
+[I. Tìm hiểu chung](#timhieuchung)
 - [Linux](#linux)
 - [Các phiên bản Ubuntu](#cacphienbanubuntu)
 - [Ubuntu Server](#ubuntuserver)
